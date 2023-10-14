@@ -1,0 +1,16 @@
+{
+    "Account": [
+        {
+            "id": 0,
+            "PlayerName":"",
+            "AccountName": "admin",
+            "Password": "admin"
+        },
+        {
+            "id": 1,
+            "PlayerName":"",
+            "AccountName": "Phong",
+            "Password": "123"
+        }
+    ]
+}
